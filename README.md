@@ -25,5 +25,10 @@ Iniciando na carreira, cada passo dado é uma conquista pessoal da qual me orgul
     <img  src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
 </div>    
+
 **Meus Hobbies favoritos:**
+  
+  -Produção musical <br>
+  -Música: Instrumentos em geral <br>
+
 
