@@ -4,18 +4,20 @@ Tabalho atualmente com Análise de Mídia Paga e busco novos rumos.
 
 **Atualmente me aperfeiçoando em Front-end e Back-end com as principais ferramentas:**
 
-<div display="inline">
-  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
-  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
-</div>          
-                    
+   
 Iniciando na carreira, cada passo dado é uma conquista pessoal da qual me orgulho.
 
+<div display="inline">
+  <img width='50px' height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+  <img width='50px' height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+  <img width='50px' height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img width='50px' height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
+</div>    
 
+<br>
 
 **Minhas Redes Sociais:**
+
 <div display="inline">
   <a href="https://www.linkedin.com/in/joilsomichalski/">
     <img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
