@@ -28,6 +28,8 @@ Iniciando na carreira, cada passo dado é uma conquista pessoal da qual me orgul
   </a>
 </div>    
 
+<br>
+
 **Meus Hobbies favoritos:**
   
   -Produção musical <br>
