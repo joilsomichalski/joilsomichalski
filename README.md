@@ -1,38 +1,80 @@
-## Olá a todos!
-Meu nome é **Joilso** e sou um programador Fullstack em progresso.
-Tabalho atualmente com Análise de Mídia Paga e busco novos rumos.
+# 👋 Olá! Sou Joilso
 
-**Atualmente me aperfeiçoando em Front-end e Back-end com as principais ferramentas:**
+**Desenvolvedor Full Stack em Transição de Carreira | Front-end Júnio | Buscando Oportunidades em Startups e Empresas Inovadoras**
 
-   
-Iniciando na carreira, cada passo dado é uma conquista pessoal da qual me orgulho.
+---
 
-<div display="inline">
+## 🚀 Sobre Mim
+
+Sou um profissional em transição de carreira, migrando da área de Análise de Mídia para o desenvolvimento de software. Com sólida formação em **Front-end**, estou expandindo minhas habilidades para **Full Stack**, buscando uma oportunidade para crescer e contribuir em um ambiente dinâmico e inovador.
+
+Tenho paixão por criar interfaces intuitivas, código limpo e soluções escaláveis. Estou aberto a desafios, aprendizado contínuo e trabalho remoto.
+
+---
+
+## 💻 Habilidades Técnicas
+
+### Front-end
+<div style="display: flex; gap: 15px; flex-wrap: wrap;">
   <img width='50px' height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
   <img width='50px' height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
   <img width='50px' height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img width='50px' height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
-</div>    
+  <img width='50px' height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+</div>
 
-<br>
+### Back-end (Em Desenvolvimento)
+<div style="display: flex; gap: 15px; flex-wrap: wrap;">
+  <img width='50px' height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img width='50px' height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+</div>
 
-**Minhas Redes Sociais:**
+### Ferramentas & Metodologias
+<div style="display: flex; gap: 15px; flex-wrap: wrap;">
+  <img width='50px' height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
+  <img width='50px' height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
+</div>
 
-<div display="inline">
-  <a href="https://www.linkedin.com/in/joilsomichalski/">
-    <img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+---
 
-  <a href="https://www.instagram.com/jo_jm91/">
-    <img  src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-  </a>
-</div>    
+## 🎯 O Que Estou Buscando
 
-<br>
+✅ Oportunidades como **Desenvolvedor Full Stack Junior** ou **Front-end**  
+✅ Empresas com cultura de **aprendizado e crescimento**  
+✅ Trabalho **remoto** ou híbrido  
+✅ Ambiente colaborativo em **startups** ou **grandes empresas**  
 
-**Meus Hobbies favoritos:**
-  
-  -Produção musical <br>
-  -Música: Instrumentos em geral <br>
+---
 
+## 📂 Projetos
 
+Meu portfólio atual com projetos práticos de Landing Pages para clientes. Confira meus trabalhos em:
+
+🔗 **[Meu Portfólio no Behance](https://www.behance.net/jomichalski)**
+
+---
+
+## 📞 Vamos Conectar!
+
+Estou aberto a conversas, feedback e oportunidades!
+
+- 💼 **LinkedIn:** [linkedin.com/in/joilso](https://www.linkedin.com/in/joilsomichalski/)
+- 📸 **Instagram:** [@joilso](https://www.instagram.com/jo_jm91/)
+- 📧 **Email:** joilsomichalski27@gmail.com
+
+---
+
+## 🎓 Mentalidade
+
+> "Estou em uma jornada de transformação profissional, trazendo a criatividade e análise estratégica da mídia para o desenvolvimento de software. Cada linha de código é uma oportunidade de aprender e crescer."
+
+---
+
+## 🎨 Hobbies & Interesses
+
+- 🎵 **Gravação com foco em Produção Musical** - Criando e produzindo conteúdo sonoro
+- 🎸 **Multi Instrumentista** - Tocando diversos instrumentos musicais
+- ✏️ **Desenho em Realismo** - Explorando técnicas de desenho realista
+
+---
+
+**Obrigado por visitar meu perfil! 🙌**
