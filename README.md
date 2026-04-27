@@ -1,10 +1,10 @@
-# 👋 Olá! Sou Joilso
+# Olá! Sou Joilso
 
 **Desenvolvedor Full Stack em Transição de Carreira | Front-end Júnio | Buscando Oportunidades em Startups e Empresas Inovadoras**
 
 ---
 
-## 🚀 Sobre Mim
+## Sobre Mim 
 
 Sou um profissional em transição de carreira, migrando da área de Análise de Mídia para o desenvolvimento de software. Com sólida formação em **Front-end**, estou expandindo minhas habilidades para **Full Stack**, buscando uma oportunidade para crescer e contribuir em um ambiente dinâmico e inovador.
 
@@ -12,7 +12,7 @@ Tenho paixão por criar interfaces intuitivas, código limpo e soluções escal�
 
 ---
 
-## 💻 Habilidades Técnicas
+## 💻 Habilidades Técnicas 💻
 
 ### Front-end
 <div style="display: flex; gap: 15px; flex-wrap: wrap;">
