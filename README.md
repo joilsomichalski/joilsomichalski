@@ -47,9 +47,9 @@ Tenho paixão por criar interfaces intuitivas, código limpo e soluções escal�
 
 ## 📂 Projetos
 
-Meu portfólio atual com projetos práticos de Landing Pages para clientes. Confira meus trabalhos em:
+Meu portfólio com projetos práticos de Landing Pages para clientes. Confira no link abaixo:
 
-🔗 **[Meu Portfólio no Behance](https://www.behance.net/jomichalski)**
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jomichalski)
 
 ---
 
@@ -70,7 +70,7 @@ Estou aberto a conversas, feedback e oportunidades!
 
 ---
 
-## 🎨 Hobbies & Interesses
+## 🎨 Hobbies & Interesses de descontração
 
 - 🎵 **Gravação com foco em Produção Musical** - Criando e produzindo conteúdo sonoro
 - 🎸 **Multi Instrumentista** - Tocando diversos instrumentos musicais
