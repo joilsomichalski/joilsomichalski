@@ -57,9 +57,10 @@ Meu portfólio atual com projetos práticos de Landing Pages para clientes. Conf
 
 Estou aberto a conversas, feedback e oportunidades!
 
-- 💼 **LinkedIn:** [linkedin.com/in/joilso](https://www.linkedin.com/in/joilsomichalski/)
-- 📸 **Instagram:** [@joilso](https://www.instagram.com/jo_jm91/)
-- 📧 **Email:** joilsomichalski27@gmail.com
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joilsomichalski) &nbsp; &nbsp; [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jo_jm91) &nbsp; &nbsp; [![Meu E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joilsomichalski27@gmail.com)
+
+
+
 
 ---
 
