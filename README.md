@@ -30,8 +30,8 @@ Tenho paixão por criar interfaces intuitivas, código limpo e soluções escal�
 
 ### Ferramentas & Metodologias
 <div style="display: flex; gap: 15px; flex-wrap: wrap;">
-  <img width='50px' height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
-  <img width='50px' height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
+  <img width='50px' height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />&nbsp;
+  <img width='50px' height='50px' src="https://horizons-cdn.hostinger.com/3c5c8165-1f7c-4144-890e-5b8c4c162030/497acbf7d9ad98ab466d2ae3b7ce3448.png" />
 </div>
 
 ---
@@ -57,7 +57,7 @@ Meu portfólio com projetos práticos de Landing Pages para clientes. Confira no
 
 Estou aberto a conversas, feedback e oportunidades!
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joilsomichalski) &nbsp; &nbsp; [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jo_jm91) &nbsp; &nbsp; [![Meu E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joilsomichalski27@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joilsomichalski) &nbsp; [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jo_jm91) &nbsp; [![Meu E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joilsomichalski27@gmail.com)
 
 
 
