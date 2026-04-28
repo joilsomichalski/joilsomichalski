@@ -53,7 +53,7 @@ Meu portfólio com projetos práticos de Landing Pages para clientes. Confira no
 
 ---
 
-## 📞 Vamos Conectar!
+## 🤳🏻 Vamos nos conectar!
 
 Estou aberto a conversas, feedback e oportunidades!
 
