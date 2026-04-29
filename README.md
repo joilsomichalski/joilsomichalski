@@ -1,6 +1,8 @@
 # Olá! Sou Joilso
 
-**Desenvolvedor Full Stack em Transição de Carreira | Front-end Júnio | Buscando Oportunidades em Startups e Empresas Inovadoras**
+**Desenvolvedor Front-end Junior em formação, com projetos em HTML5, CSS3, JavaScript, React.js, Git e GitHub.**
+
+Atualmente busco oportunidade como Desenvolvedor Front-end Junior, Desenvolvedor Web Junior ou Estagiário em Desenvolvimento.
 
 ---
 
