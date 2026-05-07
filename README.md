@@ -1,83 +1,52 @@
-# Olá! Sou Joilso
+# Joilso Michalski
 
-**Desenvolvedor Front-end Junior em formação, com projetos em HTML5, CSS3, JavaScript, React.js, Git e GitHub.**
+**Desenvolvedor Front-end Junior em formação**, com foco em criar interfaces responsivas, organizadas e funcionais usando **HTML, CSS, JavaScript, React, Git e GitHub**.
 
-Atualmente busco oportunidade como Desenvolvedor Front-end Junior, Desenvolvedor Web Junior ou Estagiário em Desenvolvimento.
+Estou em transição de carreira da área de mídia para desenvolvimento web, unindo criatividade, atenção visual e raciocínio lógico para construir projetos cada vez mais completos.
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-joilsomichalski-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joilsomichalski)
+[![Behance](https://img.shields.io/badge/Behance-Portfólio-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jomichalski)
+[![Email](https://img.shields.io/badge/E--mail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joilsomichalski27@gmail.com)
 
-## Sobre Mim 
+## Sobre mim
 
-Sou um profissional em transição de carreira, migrando da área de Análise de Mídia para o desenvolvimento de software. Com sólida formação em **Front-end**, estou expandindo minhas habilidades para **Full Stack**, buscando uma oportunidade para crescer e contribuir em um ambiente dinâmico e inovador.
+- Busco oportunidades como **Desenvolvedor Front-end Junior**, **Desenvolvedor Web Junior** ou **Estagiário em Desenvolvimento**.
+- Tenho experiência prática com páginas responsivas, manipulação do DOM, consumo de API e organização de interfaces.
+- Estou evoluindo meus estudos em **JavaScript**, **React** e fundamentos de **Full Stack**.
+- Tenho interesse em produtos digitais, interfaces úteis e projetos que resolvam problemas reais.
 
-Tenho paixão por criar interfaces intuitivas, código limpo e soluções escaláveis. Estou aberto a desafios, aprendizado contínuo e trabalho remoto.
+## Tecnologias
 
----
-
-## 💻 Habilidades Técnicas 💻
-
-### Front-end
-<div style="display: flex; gap: 15px; flex-wrap: wrap;">
-  <img width='50px' height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-  <img width='50px' height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
-  <img width='50px' height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img width='50px' height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+<div style="display: flex; gap: 12px; flex-wrap: wrap; align-items: center;">
+  <img width="48" height="48" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img width="48" height="48" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img width="48" height="48" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img width="48" height="48" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img width="48" height="48" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img width="48" height="48" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 </div>
 
-### Back-end (Em Desenvolvimento)
-<div style="display: flex; gap: 15px; flex-wrap: wrap;">
-  <img width='50px' height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img width='50px' height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-</div>
+## Projetos em destaque
 
-### Ferramentas & Metodologias
-<div style="display: flex; gap: 15px; flex-wrap: wrap;">
-  <img width='50px' height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />&nbsp;
-  <img width='50px' height='50px' src="https://horizons-cdn.hostinger.com/3c5c8165-1f7c-4144-890e-5b8c4c162030/497acbf7d9ad98ab466d2ae3b7ce3448.png" />
-</div>
+| Projeto | Descrição | Tecnologias | Links |
+| --- | --- | --- | --- |
+| **Currency Converter** | Conversor de moedas com consulta de câmbio via API e atualização dinâmica do resultado. | HTML, CSS, JavaScript, Fetch API | [Repositório](https://github.com/joilsomichalski/currency-converter) |
+| **Raffle Page** | Sorteador de números com validação de campos, feedback ao usuário e layout responsivo. | HTML, CSS, JavaScript | [Demo](https://raffle-page-phi.vercel.app) / [Repositório](https://github.com/joilsomichalski/raffle-page) |
+| **Stopwatch** | Cronômetro digital com controles de iniciar, pausar e reiniciar, além de atualização em tempo real. | HTML, CSS, JavaScript | [Demo](https://stopwatch-woad-five.vercel.app) / [Repositório](https://github.com/joilsomichalski/stopwatch) |
+| **Jokenpo** | Jogo de Pedra, Papel e Tesoura com placar, escolha automática da máquina e feedback visual. | HTML, CSS, JavaScript | [Repositório](https://github.com/joilsomichalski/Jokenpo) |
 
----
+## O que estou praticando agora
 
-## 🎯 O Que Estou Buscando
+- Estruturação de projetos front-end mais profissionais.
+- Código JavaScript mais limpo, reutilizável e organizado.
+- Responsividade e acessibilidade em interfaces web.
+- Consumo de APIs e tratamento de estados de carregamento e erro.
+- Versionamento com Git e documentação clara no GitHub.
 
-✅ Oportunidades como **Desenvolvedor Full Stack Junior** ou **Front-end**  
-✅ Empresas com cultura de **aprendizado e crescimento**  
-✅ Trabalho **remoto** ou híbrido  
-✅ Ambiente colaborativo em **startups** ou **grandes empresas**  
+## Vamos conversar
 
----
+Estou aberto a feedbacks, conexões profissionais e oportunidades para atuar com desenvolvimento front-end.
 
-## 📂 Projetos
-
-Meu portfólio com projetos práticos de Landing Pages para clientes. Confira no link abaixo:
-
-[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jomichalski)
-
----
-
-## 🤳🏻 Vamos nos conectar!
-
-Estou aberto a conversas, feedback e oportunidades!
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joilsomichalski) &nbsp; [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jo_jm91) &nbsp; [![Meu E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joilsomichalski27@gmail.com)
-
-
-
-
----
-
-## 🎓 Mentalidade
-
-> "Estou em uma jornada de transformação profissional, trazendo a criatividade e análise estratégica da mídia para o desenvolvimento de software. Cada linha de código é uma oportunidade de aprender e crescer."
-
----
-
-## 🎨 Hobbies & Interesses de descontração
-
-- 🎵 **Gravação com foco em Produção Musical** - Criando e produzindo conteúdo sonoro
-- 🎸 **Multi Instrumentista** - Tocando diversos instrumentos musicais
-- ✏️ **Desenho em Realismo** - Explorando técnicas de desenho realista
-
----
-
-**Obrigado por visitar meu perfil! 🙌**
+- LinkedIn: [linkedin.com/in/joilsomichalski](https://www.linkedin.com/in/joilsomichalski)
+- Behance: [behance.net/jomichalski](https://www.behance.net/jomichalski)
+- E-mail: [joilsomichalski27@gmail.com](mailto:joilsomichalski27@gmail.com)
