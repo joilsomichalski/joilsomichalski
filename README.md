@@ -17,7 +17,14 @@ Estou em transição de carreira da área de mídia para desenvolvimento web, un
 
 ## Tecnologias
 
-<img width="44" height="44" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> <img width="44" height="44" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> <img width="44" height="44" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> <img width="44" height="44" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> <img width="44" height="44" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> <img width="44" height="44" alt="GitHub" src="https://horizons-cdn.hostinger.com/3c5c8165-1f7c-4144-890e-5b8c4c162030/497acbf7d9ad98ab466d2ae3b7ce3448.png" />
+<p align="left">
+  <img align="center" width="44" height="44" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&nbsp;
+  <img align="center" width="44" height="44" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />&nbsp;
+  <img align="center" width="44" height="44" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;
+  <img align="center" width="44" height="44" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />&nbsp;
+  <img align="center" width="44" height="44" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />&nbsp;
+  <img align="center" width="44" height="44" alt="GitHub" src="https://horizons-cdn.hostinger.com/3c5c8165-1f7c-4144-890e-5b8c4c162030/497acbf7d9ad98ab466d2ae3b7ce3448.png" />
+</p>
 
 ## Projetos em destaque
 
