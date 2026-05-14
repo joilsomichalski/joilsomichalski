@@ -32,7 +32,7 @@ Estou em transição de carreira da área de mídia para desenvolvimento web, un
 
 | Projeto | Descrição | Tecnologias | Links |
 | --- | --- | --- | --- |
-| **Currency Converter** | Conversor de moedas com consulta de câmbio via API e atualização dinâmica do resultado. | HTML, CSS, JavaScript, Fetch API | [Repositório](https://github.com/joilsomichalski/currency-converter) |
+| **Currency Converter** | Conversor de moedas com consulta de câmbio via API e atualização dinâmica do resultado. | HTML, CSS, JavaScript, Fetch API | [Demo](https://currency-converter-nine-lime.vercel.app) / [Repositório](https://github.com/joilsomichalski/currency-converter) |
 | **Raffle Page** | Sorteador de números com validação de campos, feedback ao usuário e layout responsivo. | HTML, CSS, JavaScript | [Demo](https://raffle-page-phi.vercel.app) / [Repositório](https://github.com/joilsomichalski/raffle-page) |
 | **Stopwatch** | Cronômetro digital com controles de iniciar, pausar e reiniciar, além de atualização em tempo real. | HTML, CSS, JavaScript | [Demo](https://stopwatch-woad-five.vercel.app) / [Repositório](https://github.com/joilsomichalski/stopwatch) |
 | **Jokenpo** | Jogo de Pedra, Papel e Tesoura com placar, escolha automática da máquina e feedback visual. | HTML, CSS, JavaScript | [Demo](https://jokenpo-two-hazel.vercel.app/) / [Repositório](https://github.com/joilsomichalski/Jokenpo) |
