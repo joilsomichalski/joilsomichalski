@@ -1,6 +1,6 @@
 # Joilso Michalski
 
-**Desenvolvedor Front-end Junior em formação**, com foco em criar interfaces responsivas, organizadas e funcionais usando **HTML, CSS, JavaScript, React, Git e GitHub**.
+**Desenvolvedor Front-end**, com foco em criar interfaces responsivas, organizadas e funcionais usando **HTML, CSS, JavaScript, React, Git e GitHub**.
 
 Estou em transição de carreira da área de mídia para desenvolvimento web, unindo criatividade, atenção visual e raciocínio lógico para construir projetos cada vez mais completos.
 
