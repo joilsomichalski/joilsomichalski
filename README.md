@@ -17,15 +17,46 @@ Estou em transição de carreira da área de mídia para desenvolvimento web, un
 
 ## Tecnologias
 
+## Tecnologias
+
 <div align="center">
 <table>
   <tr>
-    <td align="center"><img width="44" height="44" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /></td>
-    <td align="center"><img width="44" height="44" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /></td>
-    <td align="center"><img width="44" height="44" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /></td>
-    <td align="center"><img width="44" height="44" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /></td>
-    <td align="center"><img width="44" height="44" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /></td>
-    <td align="center"><img width="44" height="44" alt="GitHub" src="https://horizons-cdn.hostinger.com/3c5c8165-1f7c-4144-890e-5b8c4c162030/497acbf7d9ad98ab466d2ae3b7ce3448.png" /></td>
+    <td align="center">
+      <img width="44" height="44" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+      <br>
+      <sub><b>HTML5</b></sub>
+    </td>
+    <td align="center">
+      <img width="44" height="44" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+      <br>
+      <sub><b>CSS3</b></sub>
+    </td>
+    <td align="center">
+      <img width="44" height="44" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+      <br>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center">
+      <img width="44" height="44" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+      <br>
+      <sub><b>React</b></sub>
+    </td>
+    <td align="center">
+      <img width="44" height="44" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+      <br>
+      <sub><b>Node.js</b></sub>
+    </td>
+    <td align="center">
+      <img width="44" height="44" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+      <br>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center">
+      <img width="44" height="44" alt="GitHub" src="https://horizons-cdn.hostinger.com/3c5c8165-1f7c-4144-890e-5b8c4c162030/497acbf7d9ad98ab466d2ae3b7ce3448.png" />
+      <br>
+      <sub><b>GitHub</b></sub>
+    </td>
   </tr>
 </table>
 </div>
