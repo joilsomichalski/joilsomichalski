@@ -1,3 +1,4 @@
+Olá! Eu sou o 
 # Joilso Michalski
 
 **Desenvolvedor Front-end**, com foco em criar interfaces responsivas, organizadas e funcionais usando **HTML, CSS, JavaScript, React, Git e GitHub**.
