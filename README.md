@@ -1,7 +1,3 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:4F46E5,100:06B6D4&height=220&section=header&text=Seu%20Nome&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=%3CDesenvolvedor%20Front-End%2F%3E&descSize=22&descAlignY=58&animation=fadeIn" />
-
 # Joilso Michalski
 
 **Desenvolvedor Front-end**, com foco em criar interfaces responsivas, organizadas e funcionais usando **HTML, CSS, JavaScript, React, Git e GitHub**.
