@@ -17,6 +17,7 @@ Estou em transição de carreira da área de mídia para desenvolvimento web, un
 
 ## Tecnologias
 
+<div align="center">
 <table>
   <tr>
     <td align="center"><img width="44" height="44" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /></td>
@@ -27,6 +28,7 @@ Estou em transição de carreira da área de mídia para desenvolvimento web, un
     <td align="center"><img width="44" height="44" alt="GitHub" src="https://horizons-cdn.hostinger.com/3c5c8165-1f7c-4144-890e-5b8c4c162030/497acbf7d9ad98ab466d2ae3b7ce3448.png" /></td>
   </tr>
 </table>
+</div>
 
 ## Projetos em destaque
 
