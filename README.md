@@ -17,8 +17,6 @@ Estou em transição de carreira da área de mídia para desenvolvimento web, un
 
 ## Tecnologias
 
-## Tecnologias
-
 <div align="center">
 <table>
   <tr>
