@@ -5,10 +5,8 @@ Com foco em criar interfaces responsivas, organizadas e funcionais usando **HTML
 
 Estou em transição de carreira da área de mídia para desenvolvimento web, unindo criatividade, atenção visual e raciocínio lógico para construir projetos cada vez mais completos.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-joilsomichalski-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joilsomichalski)
-&nbsp;
+![LinkedIn](https://img.shields.io/badge/LinkedIn-joilsomichalski-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 [![Behance](https://img.shields.io/badge/Behance-Portfólio-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jomichalski)
-&nbsp;
 [![Email](https://img.shields.io/badge/E--mail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joilsomichalski27@gmail.com)
 
 ## Sobre mim
