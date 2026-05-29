@@ -82,5 +82,6 @@ Estou em transição de carreira da área de mídia para desenvolvimento web, un
 Estou aberto a feedbacks, conexões profissionais e oportunidades para atuar com desenvolvimento front-end.
 
 - LinkedIn: [linkedin.com/in/joilsomichalski](https://www.linkedin.com/in/joilsomichalski)
+- Vercel: [vercel.net/joilsomichalski](https://vercel.com/joilsomichalski)
 - Behance: [behance.net/jomichalski](https://www.behance.net/jomichalski)
 - E-mail: [joilsomichalski27@gmail.com](mailto:joilsomichalski27@gmail.com)
